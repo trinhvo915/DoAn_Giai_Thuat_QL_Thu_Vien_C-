@@ -1,0 +1,4 @@
+﻿  DoAn.cpp
+d:\c#_dev\doangiaithuat\doangiaithuat\doan.cpp(625): warning C4715: 'tra': not all control paths return a value
+  DoAnGiaiThuat.vcxproj -> D:\C#_Dev\DoAnGiaiThuat\Debug\DoAnGiaiThuat.exe
+  DoAnGiaiThuat.vcxproj -> D:\C#_Dev\DoAnGiaiThuat\Debug\DoAnGiaiThuat.pdb (Partial PDB)
