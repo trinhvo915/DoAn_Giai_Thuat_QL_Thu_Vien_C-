@@ -683,11 +683,6 @@ void EditNameofProducer(ListDSsach &ds, string ma)
 	cout << "\n\t\t<=*=> Da cap nhat thanh cong!! <=*=>";
 }
 
-
-
-
-
-
 void HoVaTen()
 {
 	cout << "\n";
